@@ -1,0 +1,14 @@
+{
+  "name": "dn-middleware-gh-pages",
+  "version": "1.0.1",
+  "description": "A dawn middleware for publishing files to GitHub Pages.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "dn test"
+  },
+  "author": "Guo Chen",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^1.0.0"
+  }
+}
